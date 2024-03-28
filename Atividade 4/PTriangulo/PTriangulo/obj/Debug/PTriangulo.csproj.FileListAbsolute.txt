@@ -1,0 +1,10 @@
+D:\Documentos\ADS FATEC\2Semestre\LP 2\PTriangulo\PTriangulo\bin\Debug\PTriangulo.exe.config
+D:\Documentos\ADS FATEC\2Semestre\LP 2\PTriangulo\PTriangulo\bin\Debug\PTriangulo.exe
+D:\Documentos\ADS FATEC\2Semestre\LP 2\PTriangulo\PTriangulo\bin\Debug\PTriangulo.pdb
+D:\Documentos\ADS FATEC\2Semestre\LP 2\PTriangulo\PTriangulo\obj\Debug\PTriangulo.csproj.AssemblyReference.cache
+D:\Documentos\ADS FATEC\2Semestre\LP 2\PTriangulo\PTriangulo\obj\Debug\PTriangulo.Form1.resources
+D:\Documentos\ADS FATEC\2Semestre\LP 2\PTriangulo\PTriangulo\obj\Debug\PTriangulo.Properties.Resources.resources
+D:\Documentos\ADS FATEC\2Semestre\LP 2\PTriangulo\PTriangulo\obj\Debug\PTriangulo.csproj.GenerateResource.cache
+D:\Documentos\ADS FATEC\2Semestre\LP 2\PTriangulo\PTriangulo\obj\Debug\PTriangulo.csproj.CoreCompileInputs.cache
+D:\Documentos\ADS FATEC\2Semestre\LP 2\PTriangulo\PTriangulo\obj\Debug\PTriangulo.exe
+D:\Documentos\ADS FATEC\2Semestre\LP 2\PTriangulo\PTriangulo\obj\Debug\PTriangulo.pdb
